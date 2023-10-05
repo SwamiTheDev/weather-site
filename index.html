@@ -4,11 +4,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Weather Site</title>
+    <title>ForecastFusion</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@300;400;500;600;700&display=swap"
         rel="stylesheet" />
+    <!-- 
+    - favicon
+  -->
+    <link rel="icon"
+        href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%2210 0 100 100%22><text y=%22.90em%22 font-size=%2290%22>🪂</text></svg>">
 
     <link rel="stylesheet" href="index.css">
 </head>
@@ -17,7 +22,7 @@
 
     <div class="wrapper">
 
-        <h1>Weather App</h1>
+        <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">ForecastFusion</h1>
 
         <div class="tab-container">
             <p class="tab" data-userWeather>Your Weather</p>
@@ -38,7 +43,7 @@
             <form class="form-container" data-searchForm>
                 <input placeholder="Search for City..." data-searchInput>
                 <button class="btn" type="submit">
-                    <img src="./assets/search.png" width="20" height="20" loading="lazy">
+                    <img src="./assets/search.png" class="serach-icon" width="20" height="20" loading="lazy">
                 </button>
             </form>
 
@@ -53,18 +58,18 @@
 
                 <!--city name and Flag-->
                 <div class="name">
-                    <p data-cityName></p>
+                    <p data-cityName class="city-name"></p>
                     <img data-countryIcon>
                 </div>
 
                 <!-- weather descriptuion-->
-                <p data-weatherDesc></p>
+                <p data-weatherDesc class="weather-desc"></p>
 
                 <!--weather Icon-->
-                <img data-weatherIcon>
+                <img data-weatherIcon class="weather-icon">
 
                 <!--temperature-->
-                <p data-temp></p>
+                <p data-temp class="weather-temp"></p>
 
                 <!--3 cards - parameters-->
                 <div class="parameter-container">
@@ -72,22 +77,22 @@
                     <!--card 1-->
                     <div class="parameter">
                         <img src="./assets/wind.png">
-                        <p>windspeed</p>
-                        <p data-windspeed></p>
+                        <p class="weather-title">windspeed</p>
+                        <p data-windspeed class="__windoutput"></p>
                     </div>
 
                     <!--card 2-->
                     <div class="parameter">
                         <img src="./assets/humidity.png">
-                        <p>humidity</p>
-                        <p data-humidity></p>
+                        <p class="weather-title">humidity</p>
+                        <p data-humidity class="__output"></p>
                     </div>
 
                     <!--card 3-->
                     <div class="parameter">
                         <img src="./assets/cloud.png">
-                        <p>Clouds</p>
-                        <p data-cloudiness></p>
+                        <p class="weather-title">Clouds</p>
+                        <p data-cloudiness class="__output"></p>
                     </div>
 
                 </div>
