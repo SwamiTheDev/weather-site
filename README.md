@@ -18,8 +18,8 @@ We've harnessed the power of modern web technologies to bring you this seamless 
 - Bootstrap
 - API Magic ✨
 
-🌐 **Explore the World**
-Check out the project LIVE at [ForecastFusion](https://forecastfusion-swamithedev.vercel.app/) and witness the magic of weather fusion!
+🌍 **Project Live Location**:
+👉 Check it out here: FORECASTFUSION Live
 
 📧 **Get in Touch**
 For inquiries, collaboration, or just to say hello, reach out to us at 📩 swamithedev@gmail.com.
@@ -31,5 +31,8 @@ Thank you for visiting **FORECASTFUSION**. Weather, reimagined. 🌞🌧️🌈�
 
 **Conclusion**
 Thank you for taking the time to explore ForecastFusion. We're committed to delivering exceptional weather experiences, and we're excited to have you on board. Stay connected, stay informed, and let ForecastFusion be your weather companion, no matter where you are in the world.
+
+**Demo Video :**
+https://github.com/SwamiTheDev/weather-site/assets/119602881/2108ba5b-bfbf-4bb2-bea1-eaa9cf5b5c3c
 
 #FORECASTFUSION #WeatherMagic #StayInformed #swamithedev #swaminathanselvam #SwaminathanSelvam #frontendprojects #frontend developer 🌞🌦️🌨️
