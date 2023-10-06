@@ -15,7 +15,7 @@ We've used HTML, CSS, JS, jQuery, and Bootstrap to craft a seamless user experie
 ✨** Features**:
 
 **Live Location Weather**: 
-******Get instant access to the current weather conditions at your location, no matter where you are.
+******Get instant access to the current weather conditions at your location, no matter where you are.<br/>
 **Global Weather Lookup**:
 ******Easily check the weather at any location around the world.
 **Interactive Design**: 
