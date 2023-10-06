@@ -15,24 +15,19 @@ We've used HTML, CSS, JS, jQuery, and Bootstrap to craft a seamless user experie
 ✨**Features**:
 
 **Live Location Weather**: 
-
-&nbsp;&nbsp; Get instant access to the current weather conditions at your location, no matter where you are.
+&nbsp;&nbsp;&nbsp;&nbsp; Get instant access to the current weather conditions at your location, no matter where you are.
 
 **Global Weather Lookup**:
-
-&nbsp;&nbsp; Easily check the weather at any location around the world.
+&nbsp;&nbsp;&nbsp;&nbsp; Easily check the weather at any location around the world.
 
 **Interactive Design**: 
-
-&nbsp;&nbsp; Crafted with precision using Figma and Photoshop for a stunning user experience.
+&nbsp;&nbsp; &nbsp;&nbsp;Crafted with precision using Figma and Photoshop for a stunning user experience.
 
 **Dynamic Web Technologies**:
-
-&nbsp;&nbsp; Powered by HTML, CSS, JavaScript, jQuery, and Bootstrap for a seamless and responsive interface.
+&nbsp;&nbsp;&nbsp;&nbsp; Powered by HTML, CSS, JavaScript, jQuery, and Bootstrap for a seamless and responsive interface.
 
 **API Integration**:
-
-&nbsp;&nbsp; We fetch the latest weather data using APIs, ensuring accuracy and reliability.
+&nbsp;&nbsp;&nbsp;&nbsp; We fetch the latest weather data using APIs, ensuring accuracy and reliability.
 
 🌐 **Check it out LIVE!** 🌐
 &nbsp; Visit our project's live location at [FORECASTFUSION](https://forecastfusion-swamithedev.vercel.app/) and start exploring the weather of your desired destinations today!
