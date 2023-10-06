@@ -6,30 +6,34 @@ Welcome to **FORECASTFUSION** - Your Ultimate Weather Companion! ☀️🌧️�
 🌍 **Explore Global Weather** 🌍
 With FORECASTFUSION, you can check live weather conditions for any location around the world. Plan your day, stay prepared, and never be caught off guard by the weather again. 
 
-🎨** Design Tools**:
+🎨**Design Tools**:
 Our creative team has crafted this stunning project using Figma and Photoshop, ensuring a visually appealing and user-friendly experience. 🎨✨
 
 💻 **Powered by Cutting-edge Tech** 💻
 We've used HTML, CSS, JS, jQuery, and Bootstrap to craft a seamless user experience. Our weather data is sourced from reliable APIs to ensure accuracy.💻🚀
 
-✨** Features**:
+✨**Features**:
 
 **Live Location Weather**: 
-******Get instant access to the current weather conditions at your location, no matter where you are.<br/>
+&nbsp; Get instant access to the current weather conditions at your location, no matter where you are.
+
 **Global Weather Lookup**:
-******Easily check the weather at any location around the world.
+&nbsp; Easily check the weather at any location around the world.
+
 **Interactive Design**: 
-******Crafted with precision using Figma and Photoshop for a stunning user experience.
+&nbsp; Crafted with precision using Figma and Photoshop for a stunning user experience.
+
 **Dynamic Web Technologies**:
-******Powered by HTML, CSS, JavaScript, jQuery, and Bootstrap for a seamless and responsive interface.
+&nbsp; Powered by HTML, CSS, JavaScript, jQuery, and Bootstrap for a seamless and responsive interface.
+
 **API Integration**:
-******We fetch the latest weather data using APIs, ensuring accuracy and reliability.
+&nbsp; We fetch the latest weather data using APIs, ensuring accuracy and reliability.
 
 🌐 **Check it out LIVE!** 🌐
-******Visit our project's live location at [FORECASTFUSION](https://forecastfusion-swamithedev.vercel.app/) and start exploring the weather of your desired destinations today!
+&nbsp; Visit our project's live location at [FORECASTFUSION](https://forecastfusion-swamithedev.vercel.app/) and start exploring the weather of your desired destinations today!
 
 🙌 **Thanks for Visiting! **🙌
-*******We appreciate your interest in our project. FORECASTFUSION is here to help you stay informed and make the most of every day, rain or shine. Enjoy your weather adventures! 🌈🌦️🌞
+&nbsp; We appreciate your interest in our project. FORECASTFUSION is here to help you stay informed and make the most of every day, rain or shine. Enjoy your weather adventures! 🌈🌦️🌞
 
 Feel free to reach out with any questions or feedback. Your weather journey starts now! 🌤️🌈🌨️🌪️
 
